@@ -1,0 +1,35 @@
+# C/C++ General
+*
+!.gitignore
+
+# Build generated files
+build/
+*.o
+*.a
+*.so
+*.out
+*.dSYM/
+
+# IDE files
+.suo
+.user
+.project
+.cproject
+.settings/
+
+# SDL2
+*.suo
+*.user
+
+# GLAD
+*.glsl
+
+# Lua
+*.lua
+
+# Coverage
+*.gcno
+*.gcda
+
+# Editor temp files
+*~
